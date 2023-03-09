@@ -21,7 +21,7 @@ I like to create projects with JS.
 
 ---
 
-#### ⚡ Fun facts about me:
+#### Fun facts about me:
 😁 Real **HARDCODER**
 
 🥷 I’m currently learning JavaScript & Swift
