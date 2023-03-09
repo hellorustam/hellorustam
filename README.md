@@ -10,14 +10,12 @@ I like to create projects with JS.
 - HTML, CSS,  Sass/SCSS
 - Methodology BEM  
 - Javascript (begginer)  
-- React (begginer)  
+- React (begginer)
+- Git, GitHUB
+- NPM   
 - OOP  
-- Gulp  
-- Git, GitHUB  
-- NPM  
-- **Russian** (native speaker)
-- **English** (Intermediate / B1+)
-- Jira
+- Gulp
+- **Russian**(native) & **English**(B1+)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellorustam&layout=compact&theme=dracula&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,8 +28,6 @@ I like to create projects with JS.
 
 🕺 Dancer — Hustle, Bachata, Kizomba
 
-
-🍀 
 
 <!--
 **hellorustam/hellorustam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
