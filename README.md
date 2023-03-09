@@ -19,6 +19,8 @@ I like to create projects with JS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellorustam&layout=compact&theme=dracula&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
+![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
+
 ---
 
 #### Fun facts about me:
