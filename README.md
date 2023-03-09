@@ -7,13 +7,12 @@ I like to create projects with JS.
 📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
 
 **My Skills**:  
-- HTML, CSS,  Sass/SCSS
-- Methodology BEM  
-- Javascript (begginer)  
+- HTML, CSS,  Sass/SCSS, BEM
+- Javascript (begginer)
 - React (begginer)
 - Git, GitHUB
-- NPM   
-- OOP  
+- NPM
+- OOP
 - Gulp
 - **Russian**(native) & **English**(B1+)
 
@@ -21,7 +20,7 @@ I like to create projects with JS.
 
 ---
 
-#### Fun facts about me:
+#### Fun facts:
 😁 Real **HARDCODER**
 
 🥷 I’m currently learning JavaScript & Swift
@@ -29,18 +28,3 @@ I like to create projects with JS.
 🕺 Dancer — Hustle, Bachata, Kizomba
 
 ![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
-
-<!--
-**hellorustam/hellorustam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
