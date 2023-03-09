@@ -1,6 +1,6 @@
 ## Hello, I am Rustam Samiev
 
-I like to create projects with JS & Swift.
+I like to create projects with JS.
 
 📫 telegram: [@hellofox](https://t.me/hellofox)
 
@@ -25,6 +25,8 @@ I like to create projects with JS & Swift.
 
 #### ⚡ Fun facts about me:
 😁 Real **HARDCODER**
+
+🥷 I’m currently learning JavaScript & Swift
 
 🕺 Dancer — Hustle, Bachata, Kizomba
 
