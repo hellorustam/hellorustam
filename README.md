@@ -30,6 +30,8 @@ I like to create projects with JS.
 
 🕺 Dancer — Hustle, Bachata, Kizomba
 
+![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
+![CODEWARS](https://www.codewars.com/users/samiru/badges/micro)
 
 <!--
 **hellorustam/hellorustam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
