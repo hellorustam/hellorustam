@@ -1,10 +1,8 @@
-## Hello, I am Rustam Samiev
+## 👋 Hello, I am Rustam Samiev
 
 I like to create projects with JS.
 
-📫 telegram: [@hellofox](https://t.me/hellofox)
-
-📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
+📫 telegram: [@hellofox](https://t.me/hellofox) || 📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
 
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -33,7 +31,7 @@ I like to create projects with JS.
 ---
 
 #### Fun facts:
-😁 Real **HARDCODER**
+😁 Real **HARDCODER** <br />
 🕺 Dancer — Hustle, Bachata, Kizomba 
 
 ![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
