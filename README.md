@@ -31,11 +31,9 @@ I like to create projects with JS.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellorustam&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<!-- 
+
 #### Fun facts:
 😁 Real **HARDCODER**
-🥷 I’m currently learning JavaScript & Swift
 🕺 Dancer — Hustle, Bachata, Kizomba 
--->
 
 ![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
