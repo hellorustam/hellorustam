@@ -2,7 +2,7 @@
 
 I like to create projects.
 
-📫 telegram: [@hellofox](https://t.me/hellofox)
+📫 telegram: [@hellofox](https://t.me/hellofox) <br />
 📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
 
 ### 💻 Tech Stack:
