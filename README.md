@@ -1,10 +1,11 @@
-## 👋 Hello, I am Rustam Samiev
+# 👋 Hello, I am Rustam Samiev
 
-I like to create projects with JS.
+I like to create projects.
 
-📫 telegram: [@hellofox](https://t.me/hellofox) || 📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
+📫 telegram: [@hellofox](https://t.me/hellofox)
+📧 email: [blakfoh@gmail.com](mailto:blakfoh@gmail.com)
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -13,10 +14,5 @@ I like to create projects with JS.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellorustam&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ![CODEWARS](https://www.codewars.com/users/samiru/badges/large)
