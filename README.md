@@ -8,3 +8,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![CODEWARS](https://www.codewars.com/users/samiru/badges/small)
+![Codewars](https://github.r2v.ch/codewars?user=samiru&stroke=red)
